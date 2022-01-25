@@ -1,4 +1,3 @@
-import { Person } from './namespaces';
 export { };
 
 namespace Japanese {
